@@ -1,0 +1,6 @@
+{
+  "name": "隨機分組與抽籤工具",
+  "description": "支援自訂名單的課堂分組與抽籤小工具。具備防重複抽籤機制，介面清爽緊湊。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
